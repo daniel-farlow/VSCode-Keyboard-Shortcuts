@@ -1,6 +1,6 @@
 # VSCode Keyboard Shortcuts
 
-If you use VSCode as your text editor, then have you ever wondered what keyboard shortcuts might exist? Perhaps you have consulted VSCode's own documentation for keyboard shortcuts on both [MacOs](https://github.com/daniel-farlow/VSCode-Keyboard-Shortcuts/blob/master/VSCode%20Keyboard%20Shortcuts%20(MacOS).pdf) and [Windows](https://github.com/daniel-farlow/VSCode-Keyboard-Shortcuts/blob/master/VSCode%20Keyboard%20Shortcuts%20(Windows).pdf). If you are like me, then you have probably found yourself asking how you can practically make use of these guides when there are *so* many possible shortcuts to learn, some of which seem highly relevant and others not so much. How can you get up and running quickly with some useful shortcuts as well as test your memory of what shortcutes you think you know? This "guide" aims to address these questions.
+VSCode has a lot of keyboard shortcuts to make your life easier. A lot. Perhaps you have consulted VSCode's own documentation for keyboard shortcuts on both [MacOs](https://github.com/daniel-farlow/VSCode-Keyboard-Shortcuts/blob/master/VSCode%20Keyboard%20Shortcuts%20(MacOS).pdf) and [Windows](https://github.com/daniel-farlow/VSCode-Keyboard-Shortcuts/blob/master/VSCode%20Keyboard%20Shortcuts%20(Windows).pdf). If you have looked at these documents, then you are likely not alone in what you may be feeling: how does this make my life easier? Which shortcuts are actually useful? How can I get up and running quickly with some useful shortcuts as well as test my memory of what shortcuts I think I know? This "guide" attempts to address some of these questions.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ Desired keystrokes (click the dropdown triangle to test or refresh your memory):
 
 ### Demo of Copying a Line Up/Down
 
-Watch the following demo to see "copy line down" in action and how it might make your life much easier.
+Watch the following demo to see "copy line down" in action and how it might make your life easier. (The keystrokes used to accomplish this are highlighted to the right.)
 
 ![vscode-keyboard-shortcuts-demo](https://user-images.githubusercontent.com/52146855/64067591-13250800-cbf9-11e9-815b-1600490b44b3.gif)
 
